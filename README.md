@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👯 Hi, I’m Daeeui Kim joining in [BCSD_LAB](https://bcsdlab.com)
+- 👯 Hi, I’m Daeeui Kim
 - 🌱 I’m interested in React, TS/JS
 - 😄 My Blog : https://kimeodml.tistory.com
 
